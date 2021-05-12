@@ -1,0 +1,71 @@
+#cor_azul {
+    background-color: rgb(4, 0, 255);
+}
+#titulo {
+    font-family: "Comic Sans MS";
+    font-size: 1.8em;
+    text-align: center
+}
+#caixa {
+    border: 2px solid #070303e5;
+    margin: auto;
+    text-align: center;
+    width: 45%;
+    padding: 20px 
+}
+a {
+    font-family: arial;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    opacity: 1;
+}
+#cor_amarelo {
+    background-color: yellow;
+}
+
+#cor_cinza {
+    background-color: grey
+}
+
+#cor_laranja {
+    background-color: orangered;
+}
+
+#cor_rosa {
+    background-color: pink;
+}
+
+#cor_verde {
+    background-color: green;
+}
+
+#cor_vermelho {
+    background-color: red;
+}
+
+#link_amarelo {
+    color: yellow
+}
+#link_vermelho {
+    color: red
+}
+#link_verde {
+    color: green
+}
+#link_laranja {
+    color: orangered
+}
+#link_cinza {
+    color: grey
+}
+#link_rosa {
+    color: rgb(255, 52, 86)
+}
+#link_azul {
+    color: blue;
+}
+
